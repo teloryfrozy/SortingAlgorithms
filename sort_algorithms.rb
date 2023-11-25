@@ -122,6 +122,7 @@ def merge_sort(arr)
     return merge_sorted(left, right)
 end
 
+# ========== TESTING ========== #
 def test_sorting_algorithms()
     test_cases = [
         [[1, 3, 6, 2, 4, 9], [1, 2, 3, 4, 6, 9]],

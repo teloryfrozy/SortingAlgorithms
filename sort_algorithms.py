@@ -102,9 +102,7 @@ def merge_sort(arr: list) -> list:
     
     return merge_sorted(left, right)
 
-
-
-
+# ========== TESTING ========== #
 def test_sorting_algorithms():
     test_cases = [
         ([1, 3, 6, 2, 4, 9], [1, 2, 3, 4, 6, 9]),
