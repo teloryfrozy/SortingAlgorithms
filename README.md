@@ -1,17 +1,23 @@
 # Sorting Algorithms
 
-👋 Welcome to the Sorting Algorithms repository! Here, I've implemented a collection of sorting algorithms in Python and Ruby, with ongoing work to implement them in C.
+👋 Welcome to the Sorting Algorithms repository! This collection showcases a variety of sorting algorithms implemented in Python, Ruby, and C programming languages. It serves as a comprehensive resource for understanding and exploring fundamental sorting techniques.
 
-## Algorithms Implemented
-- **Selection Sort**: Implemented in Python and Ruby
-- **Bubble Sort**: Implemented in Python and Ruby
-- **Insertion Sort**: Implemented in Python and Ruby
-- **Merge Sort**: Implemented in Python and Ruby
+## Overview
 
-## Assertion Tests
-Each sorting algorithm has been rigorously tested using assertion tests to ensure accurate and efficient sorting.
+This repository encompasses the following sorting algorithms, each implemented in Python, Ruby, and C:
 
-## Future Work
-🚀 Currently working on implementing the sorting algorithms in C.
+- **Selection Sort**
+- **Bubble Sort**
+- **Insertion Sort**
+- **Merge Sort**
 
-Feel free to explore the code and test the sorting algorithms! Contributions and feedback are always appreciated.
+## Implemented Languages
+
+### Python 🐍
+The sorting algorithms have been implemented in Python, providing clear and concise code.
+
+### Ruby 💎
+Ruby implementations offer a different perspective, showcasing the same algorithms in a different language.
+
+### C 🚀
+C implementations provide insights into implementing algorithms in a lower-level language, emphasizing efficiency and performance.
